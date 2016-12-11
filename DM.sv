@@ -1,5 +1,5 @@
 `timescale 1ns/10ps
-`include "port_define.sv"
+`include "define.sv"
 
 module DM(clk, 
 	        rst,
