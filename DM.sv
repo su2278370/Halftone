@@ -1,7 +1,7 @@
 `timescale 1ns/10ps
 `include "define.sv"
 
-module DM(clk, 
+module dm(clk, 
 	        rst,
           DM_read, 
           DM_write, 
